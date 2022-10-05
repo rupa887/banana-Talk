@@ -1,0 +1,20 @@
+.banana{
+    display: block;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: #F2C94C;
+    padding: 3rem;
+}
+.button{
+    background-color: #F2C94C;
+    padding: 1rem;
+    
+
+}
+.about{
+    margin: 1rem;
+    display: block;
+    box-sizing: border-box;
+    background-color: #F2C94C;
+    padding: 1rem;
+}
